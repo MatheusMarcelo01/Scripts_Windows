@@ -1,2 +1,2 @@
 # Scripts_Windows
-Alguns macetes e gambiarras no Windows, que vão facilitar a automatizar algumas tarefas.
+Alguns macetes e gambiarras no Windows, que sempre me ajudam no meu trabalho com manutenção de computadores e relacionados, com o sistema da Microsoft.
