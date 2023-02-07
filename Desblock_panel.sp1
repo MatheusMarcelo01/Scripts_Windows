@@ -1,0 +1,9 @@
+# Remove a chave "FilterAdministratorToken" do registro
+Remove-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\S>
+
+# Remove a chave "EnableLUA" do registro
+Remove-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\S>
+
+# Verifica se as alterações foram feitas corretamente
+Get-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\Syst>
+Get-ItemProperty -Path "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\Syst>
