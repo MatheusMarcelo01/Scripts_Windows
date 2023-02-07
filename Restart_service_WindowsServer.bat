@@ -1,3 +1,4 @@
+:: restart script
 @Echo Off
 Set ServiceName=MySQL57
 SC queryex "%ServiceName%"|Find "STATE"|Find /v "RUNNING">Nul&&(
