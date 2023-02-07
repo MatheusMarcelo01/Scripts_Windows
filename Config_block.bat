@@ -1,4 +1,3 @@
-  GNU nano 6.2                          New Buffer *                                  
 @echo off
 
 rem Adiciona a chave "FilterAdministratorToken" ao registro
@@ -12,14 +11,3 @@ reg query "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v Fi
 reg query "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v EnableL>
 
 
-
-
-
-
-
-
-
-
-
-^G Help       ^O Write Out  ^W Where Is   ^K Cut        ^T Execute    ^C Location
-^X Exit       ^R Read File  ^\ Replace    ^U Paste      ^J Justify    ^/ Go To Line
