@@ -2,7 +2,7 @@
 :: Script de limpeza de arquivos temporários em cache para todos os usuários do Windows.
 :: A principio foi feito para ser executado em um servidor, mas é uma excelente alternativa para automatizar a limpeza de um mais usuarios do seu computador;
 ::
-:: ______________________COMO UTILIZAR_____________________-
+:: ______________________COMO UTILIZAR______________________________________________________________________________________________
 :: Copie este código em um bloco de notas, ou editor txt qualquer de sua preferência, e salve como: arquivo.bat
 :: Após isso clique com o lado direito do mouse no arquivo, e em seguida em: "Executar como administrador", e ele limpará tudo automaticamente.
 ::
@@ -140,3 +140,4 @@ goto END
 
 :END
 exit
+
